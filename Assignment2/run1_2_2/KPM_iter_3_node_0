@@ -1,0 +1,17 @@
+Iteration: 3
+Communication Time (seconds): 0.000001
+Time charging station became full: 2023-10-18 19:37:59
+Reported time:                     2023-10-18 19:38:5
+Total messages sent by the reporting node to the server: 2
+Number of adjacent node(s): 2
+
+Reporting node      Coord       Port Value      Available Ports
+0                  (0, 0)       3               1
+
+Adjacent node(s)    Coord       Port Value      Available Ports
+2                  (1, 0)       3               1
+1                  (0, 1)       3               1
+
+Nearby node(s)      Coord
+3                  (1, 1)
+
